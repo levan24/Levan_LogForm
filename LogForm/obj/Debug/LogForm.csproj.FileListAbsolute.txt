@@ -1,0 +1,13 @@
+C:\Users\levan\source\repos\LogForm\LogForm\bin\Debug\LogForm.exe.config
+C:\Users\levan\source\repos\LogForm\LogForm\bin\Debug\LogForm.exe
+C:\Users\levan\source\repos\LogForm\LogForm\bin\Debug\LogForm.pdb
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.csprojAssemblyReference.cache
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.Form1.resources
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.Properties.Resources.resources
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.csproj.GenerateResource.cache
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.csproj.CoreCompileInputs.cache
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.exe
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.pdb
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.Form2.resources
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.Form3.resources
+C:\Users\levan\source\repos\LogForm\LogForm\obj\Debug\LogForm.csproj.Fody.CopyLocal.cache
